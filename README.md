@@ -3,12 +3,8 @@ Lonline allows to log your program into the cloud and is powered by Dynamicloud 
 
 Lonline provides 6 levels of logging and 2 methods to execute reports.  Lonline is a gem to log your program through a storing service called Dynamicloud.  With Dynamicloud we can store data dynamically and very easy, Lonline allows you to set more features and this way log more than only text, level and program trace.
 
-1. [Dependencies](#dependencies)
-  1. [Dynamicloud](#dynamicloud) 
+1. [Dynamicloud](#dynamicloud) 
 2. [Levels](#levels)
-
-#Dependencies
-**Lonline has two main depedendencies:** Json gem and Dynamicloud gem, so when you're installing lonline gem those dependencies will be installed in your system.
 
 #Dynamicloud
 Dynamicloud is a service to store data into the cloud, it allows you to create structures dynamically without intervention from IT teams.  This service allows lonline to store log information very easy and fast.  Additionally, lonline gets the power of Dynamicloud to execute queries and provide reports for your analysis about created logs in a specific time, date, year, etc.
