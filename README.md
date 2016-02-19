@@ -30,8 +30,8 @@ Lonline provides 6 levels of logging, check out the below table to understand ho
 If you're a Ruby developer visit our lonline Ruby version [Lonline Ruby version documentation](https://github.com/dynamicloud/lonline_for_ruby "Lonline Ruby version documentation") 
 
 #Java Language
-If you're a Java developer visit our lonline Ruby version [Lonline Ruby version documentation](https://github.com/dynamicloud/lonline_for_java "Lonline Java version documentation") 
+If you're a Java developer visit our lonline Java version [Lonline Java version documentation](https://github.com/dynamicloud/lonline_for_java "Lonline Java version documentation") 
 
-There are all the guidelines to use lonline for Java and Ruby. 
+**There are all the guidelines to use lonline for Java and Ruby.**
 
 For further information and support about lonline, contact us at [Contact](https://www.dynamicloud.org/contact "Dynamicloud contact")
