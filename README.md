@@ -5,6 +5,8 @@ Lonline provides 6 levels of logging and 2 methods to execute reports.  Lonline 
 
 1. [Dynamicloud](#dynamicloud) 
 2. [Levels](#levels)
+3. [Ruby language](#ruby-language)
+4. [Java language](#java-language)
 
 #Dynamicloud
 Dynamicloud is a service to store data into the cloud, it allows you to create structures dynamically without intervention from IT teams.  This service allows lonline to store log information very easy and fast.  Additionally, lonline gets the power of Dynamicloud to execute queries and provide reports for your analysis about created logs in a specific time, date, year, etc.
@@ -24,7 +26,7 @@ Lonline provides 6 levels of logging, check out the below table to understand ho
 | `trace` | All levels | Traces the code execution between methods, lines, etc.|
 | `off` | None | The highest possible rank and is intended to turn off logging.|
 
-#RUBY Language
+#Ruby Language
 If you're a Ruby developer visit our lonline Ruby version [Lonline Ruby version documentation](https://github.com/dynamicloud/lonline_for_ruby "Lonline Ruby version documentation") 
 
 #Java Language
