@@ -1,4 +1,4 @@
-# Lonline 0.0.1
+# Lonline
 Lonline allows to log your program into the cloud and is powered by Dynamicloud service.  Lonline allows you to log your program's execution into the cloud to avoid server access and disk space usage
 
 Lonline provides 6 levels of logging and 2 methods to execute reports.  Lonline is a gem to log your program through a storing service called Dynamicloud.  With Dynamicloud we can store data dynamically and very easy, Lonline allows you to set more features and this way log more than only text, level and program trace.
@@ -24,10 +24,10 @@ Lonline provides 6 levels of logging, check out the below table to understand ho
 | `trace` | All levels | Traces the code execution between methods, lines, etc.|
 | `off` | None | The highest possible rank and is intended to turn off logging.|
 
-#Ruby Language
+#Ruby Language 0.0.2
 If you're a Ruby developer visit our lonline Ruby version [Lonline Ruby version documentation](https://github.com/dynamicloud/lonline_for_ruby "Lonline Ruby version documentation") 
 
-#Java Language
+#Java Language 0.0.1
 If you're a Java developer visit our lonline Java version [Lonline Java version documentation](https://github.com/dynamicloud/lonline_for_java "Lonline Java version documentation") 
 
 **There are all the guidelines to use lonline for Java and Ruby.**
