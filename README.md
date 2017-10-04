@@ -9,10 +9,10 @@ Lonline provides 6 levels of logging and 2 methods to execute reports.  Lonline 
 4. [Java language](#java-language)
 5. [NodeJs](#nodejs)
 
-#Dynamicloud
+# Dynamicloud
 Dynamicloud is a service to store data into the cloud, it allows you to create structures dynamically without intervention from IT teams.  This service allows lonline to store log information very easy and fast.  Additionally, lonline gets the power of Dynamicloud to execute queries and provide reports for your analysis about created logs in a specific time, date, year, etc.
 
-#Levels
+# Levels
 Lonline provides 6 levels of logging, check out the below table to understand how these levels are activated according the level of logging in your program:
 
 | Level | Activated levels | Description (From the great Log4j library) |
