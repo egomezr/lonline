@@ -25,23 +25,21 @@ Lonline provides 6 levels of logging, check out the below table to understand ho
 | `trace` | All levels | Traces the code execution between methods, lines, etc.|
 | `off` | None | The highest possible rank and is intended to turn off logging.|
 
-#Ruby Language
+# Ruby Language
 0.0.2
 
-If you're a Ruby developer visit our lonline Ruby version [Lonline Ruby version documentation](https://github.com/dynamicloud/lonline_for_ruby "Lonline Ruby version documentation") 
+If you're a Ruby developer visit our lonline Ruby version [Lonline Ruby version documentation](https://github.com/egomezr/lonline_for_ruby "Lonline Ruby version documentation") 
 
-#Java Language
+# Java Language
 0.0.1
 
-If you're a Java developer visit our lonline Java version [Lonline Java version documentation](https://github.com/dynamicloud/lonline_for_java "Lonline Java version documentation") 
+If you're a Java developer visit our lonline Java version [Lonline Java version documentation](https://github.com/egomezr/lonline_for_java "Lonline Java version documentation") 
 
-#NodeJs
+# NodeJs
 0.0.2
 
-If you're a NodeJs developer visit our lonline NodeJs version [Lonline NodeJs version documentation](https://github.com/dynamicloud/lonline_for_nodejs "Lonline NodeJs version documentation") 
+If you're a NodeJs developer visit our lonline NodeJs version [Lonline NodeJs version documentation](https://github.com/egomezr/lonline_for_nodejs "Lonline NodeJs version documentation") 
 
 
 
 **There are all the guidelines to use lonline for Java, Ruby and NodeJs.**
-
-For further information and support about lonline, contact us at [Contact](https://www.dynamicloud.org/contact "Dynamicloud contact")
